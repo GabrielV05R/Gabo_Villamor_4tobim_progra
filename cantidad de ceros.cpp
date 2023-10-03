@@ -7,7 +7,7 @@ int main() {
 	
 	for(int i=0; i<5; i++){
 		for(int j=0; j<5; j++){
-			cout<<"Ingrese un valor para la posición: "<<i+1<<" , "<<j+1<<endl;
+			cout<<"Ingrese un valor para la posiciÃ³n: "<<i+1<<" , "<<j+1<<endl;
 			cin>>Ruso[i][j];
 		}
 	}
@@ -29,7 +29,7 @@ int main() {
             suma2=suma1;
 		}
     }
-    cout<<"La cantidad de ceros que ingresó es: "<<suma1<<endl;
+    cout<<"La cantidad de ceros que ingresÃ³ es: "<<suma1<<endl;
 	
 	
 	
